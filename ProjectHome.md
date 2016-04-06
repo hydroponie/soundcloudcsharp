@@ -1,0 +1,1 @@
+This is a C# Wrapper for the SoundCloud API. It will take care of all aspects of the API including OAuth authentication
